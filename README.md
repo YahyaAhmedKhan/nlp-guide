@@ -458,3 +458,62 @@ streamlit run app.py
 ```
 
 This will start a local server and open the Streamlit app in your browser. You can now interact with the RAG pipeline through the front-end.
+
+
+---
+# Guide to Setting Up Ngrok with Static Domains
+
+## Introduction
+
+Ngrok is a tunneling service that creates secure tunnels from public URLs to your localhost. It allows you to expose your local development server to the internet using a static domain name.
+
+## Creating an Account
+
+1. Visit [ngrok.com](https://ngrok.com) and click "Sign Up"
+2. Complete the registration process
+3. After signing in, navigate to the [dashboard](https://dashboard.ngrok.com)
+4. Find your authtoken in the "Getting Started" section
+
+## Installation
+
+### Method 1: Using Package Managers
+
+**On Mac (using Homebrew):**
+```bash
+brew install ngrok
+```
+
+**On Windows (using Chocolatey):**
+```bash
+choco install ngrok
+```
+
+### Method 2: Direct Download
+
+1. Go to [ngrok.com/download](https://ngrok.com/download)
+2. Download the appropriate version for your operating system
+3. Extract the downloaded file
+4. (Optional) Add ngrok to your system PATH for easier access
+
+## Configuration
+
+1. Open your terminal/command prompt
+2. Add your authtoken (replace YOUR_AUTH_TOKEN with your actual token):
+```bash
+ngrok config add-authtoken YOUR_AUTH_TOKEN
+```
+
+## Running Ngrok with Static Domain
+
+1. First, get your static domain from the ngrok dashboard under "Cloud Edge > Domains"
+2. Use the following command format to start ngrok with your static domain:
+```bash
+ngrok http --domain=your-static-domain.ngrok-free.app PORT_NUMBER
+```
+
+For example, to expose a local server running on port 8000:
+```bash
+ngrok http --domain=desired-albacore-commonly.ngrok-free.app 8000
+```
+
+You can now serve your streamlit app on a public URL. Start your streamlit server on the specified port and access it using the provided static domain.
