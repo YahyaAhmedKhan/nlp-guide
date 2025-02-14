@@ -114,7 +114,9 @@ load_dotenv()
 
 
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-print("Pinecone Indices: ", pc.list_indices())
+print("Pinecone Indices: ", pc.list_indexes())
+
+index = pc.Index(host="INDEX_NAME")
 
 upsert_response = index.upsert(
     vectors=[
