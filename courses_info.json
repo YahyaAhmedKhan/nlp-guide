@@ -1,0 +1,3764 @@
+[
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Tehseen Mazhar Valjee",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "97314"
+  },
+  {
+    "name": "Technology and Process Automat",
+    "faculty": "Dr. Abdul Basit Shaikh",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "45",
+    "class_code": "96963"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Zeeshan Atiq",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97429"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Ms Nassera Naushad Ali",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 30,
+    "class_limit": "25",
+    "class_code": "97490"
+  },
+  {
+    "name": "POLITICAL COMMUNICATION",
+    "faculty": "Dr. Amir Marwan",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 12,
+    "class_limit": "30",
+    "class_code": "96728"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Annie Ahmad",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "96647"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Usama Ehsan Khan",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 43,
+    "class_limit": "43",
+    "class_code": "97114"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Amir Bashir",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "40",
+    "class_code": "97113"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Fatima Hatim Anjary",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 51,
+    "class_limit": "54",
+    "class_code": "97187"
+  },
+  {
+    "name": "Introduction to DevOps",
+    "faculty": "Khawaja Abdul Hafeez",
+    "start_time": "13:00",
+    "days": "SAT",
+    "std_enrolled": 37,
+    "class_limit": "41",
+    "class_code": "97139"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "KASHIF RASHID",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 34,
+    "class_limit": "40",
+    "class_code": "97709"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Syed Tauqeer Ahmed",
+    "start_time": "13:00",
+    "days": "SAT",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97162"
+  },
+  {
+    "name": "Fundamentals of Supply Chain Management",
+    "faculty": "Khusrow Uzair",
+    "start_time": "14:30",
+    "days": "SAT",
+    "std_enrolled": 11,
+    "class_limit": "40",
+    "class_code": "97714"
+  },
+  {
+    "name": "SOFTWARE ENGINEERING",
+    "faculty": "MUHAMMAD SAMAR JAMIL",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97498"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Shafia Imtiaz",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "49",
+    "class_code": "96798"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Dr. Azima Khan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 31,
+    "class_limit": "45",
+    "class_code": "96983"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Noureen Ayaz",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 40,
+    "class_limit": "42",
+    "class_code": "96681"
+  },
+  {
+    "name": "DIGITAL MARKETING",
+    "faculty": "Sumayyah Khurshid Khan",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "96959"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Maria Rahim",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "97141"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "NOREEN SALMAN QAYAM",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 55,
+    "class_limit": "55",
+    "class_code": "97260"
+  },
+  {
+    "name": "BUSINESS INTELLIGENCE",
+    "faculty": "Dr. Tariq Mahmood",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 31,
+    "class_limit": "40",
+    "class_code": "97245"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "SHAHZAD AHMAD",
+    "start_time": "13:15",
+    "days": "SAT",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "96773"
+  },
+  {
+    "name": "SOFTWARE ENGINEERING",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 19,
+    "class_limit": "37",
+    "class_code": "97137"
+  },
+  {
+    "name": "GERMAN LANGUAGE",
+    "faculty": "Ms. Nuzhat Saad",
+    "start_time": "14:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 31,
+    "class_limit": "32",
+    "class_code": "96875"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "Dr. Nasir Touheed",
+    "start_time": "10:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "30",
+    "class_code": "97601"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "KASHIF RASHID",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 41,
+    "class_limit": "42",
+    "class_code": "97708"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Usman Nazir",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97299"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Dr. Mohsin Sadaqat",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 39,
+    "class_limit": "40",
+    "class_code": "97354"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Farhan Ahmed Siddiqui",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "45",
+    "class_code": "97107"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Umar Shahzad",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "40",
+    "class_code": "96803"
+  },
+  {
+    "name": "Introduction to Machine Learning",
+    "faculty": "Dr. Sajjad Haider",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "42",
+    "class_code": "97136"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Usman Ali",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "45",
+    "class_code": "97106"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Azeem Hasan",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 24,
+    "class_limit": "40",
+    "class_code": "97012"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Dr. Azima Khan",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 27,
+    "class_limit": "45",
+    "class_code": "96989"
+  },
+  {
+    "name": "FINANCIAL MODELING",
+    "faculty": "Syed Irfan Ahmed",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "45",
+    "class_code": "97371"
+  },
+  {
+    "name": "Computer Security",
+    "faculty": "Dr. S.M. Faisal Iradat",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "97075"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Nida Aslam Khan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "40",
+    "class_code": "96883"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Ahmed Akhtar",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 52,
+    "class_limit": "52",
+    "class_code": "97100"
+  },
+  {
+    "name": "OBJECT ORIENTED PROGRAMMING TECHNIQUES",
+    "faculty": "Mehwish Zafar",
+    "start_time": "10:00",
+    "days": "FRI",
+    "std_enrolled": 27,
+    "class_limit": "40",
+    "class_code": "97559"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Zohaib Aziz",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "97115"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Tehseen Mazhar Valjee",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "96999"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Saqib Ur Rehman",
+    "start_time": "12:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 37,
+    "class_limit": "40",
+    "class_code": "97120"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Imran Javed Hassan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "48",
+    "class_code": "96903"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Muhammad Sheraz",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 15,
+    "class_limit": "40",
+    "class_code": "96961"
+  },
+  {
+    "name": "FRENCH LANGUAGE - I",
+    "faculty": "LEROY JOHNS",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "32",
+    "class_code": "96683"
+  },
+  {
+    "name": "BUSINESS LAW",
+    "faculty": "Rahat Aziz",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96945"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Saqib Ur Rehman",
+    "start_time": "10:45",
+    "days": "FRI - SAT",
+    "std_enrolled": 40,
+    "class_limit": "41",
+    "class_code": "97119"
+  },
+  {
+    "name": "Islamic Scholarly Tradition",
+    "faculty": "MARIA HAQQANI",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "97348"
+  },
+  {
+    "name": "Contemporary Issues in Global economics",
+    "faculty": "UMEMA AMIN SIDDIQI",
+    "start_time": "08:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97449"
+  },
+  {
+    "name": "Introduction to Machine Learning",
+    "faculty": "Sumaira Saeed",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 29,
+    "class_limit": "40",
+    "class_code": "96921"
+  },
+  {
+    "name": "Spanish l",
+    "faculty": "Francisco Javier Merello",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 35,
+    "class_limit": "35",
+    "class_code": "97719"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Nadeem Akhtar",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 54,
+    "class_limit": "55",
+    "class_code": "97108"
+  },
+  {
+    "name": "SOCIAL MARKETING",
+    "faculty": "Tabish Shahzad",
+    "start_time": "11:30",
+    "days": "SAT",
+    "std_enrolled": 43,
+    "class_limit": "47",
+    "class_code": "97161"
+  },
+  {
+    "name": "HUMAN COMPUTER INTERACTION",
+    "faculty": "Behraj Khan",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 47,
+    "class_limit": "50",
+    "class_code": "97170"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTING",
+    "faculty": "Jawwad Farid",
+    "start_time": "08:30",
+    "days": "THU",
+    "std_enrolled": 40,
+    "class_limit": "43",
+    "class_code": "96755"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Aitzaz Ahsan Alias Sarang",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 56,
+    "class_limit": "56",
+    "class_code": "97312"
+  },
+  {
+    "name": "PHILOSOPHY, LOGIC AND ETHICS",
+    "faculty": "Dr. Amana Raquib",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 17,
+    "class_limit": "40",
+    "class_code": "97351"
+  },
+  {
+    "name": "PHILOSOPHY, LOGIC AND ETHICS",
+    "faculty": "Dr. Amana Raquib",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 17,
+    "class_limit": "40",
+    "class_code": "97351"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "Zaira Anees",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 54,
+    "class_limit": "54",
+    "class_code": "96652"
+  },
+  {
+    "name": "Real Analysis -1",
+    "faculty": "Ahmad Raza",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 14,
+    "class_limit": "35",
+    "class_code": "97536"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Muhammad Sheraz",
+    "start_time": "17:30",
+    "days": "MON - WED",
+    "std_enrolled": 4,
+    "class_limit": "40",
+    "class_code": "96939"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "14:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 16,
+    "class_limit": "30",
+    "class_code": "96882"
+  },
+  {
+    "name": "CREATIVE WRITING",
+    "faculty": "Dr. Nadya Qamar Chishty Mujahid",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 37,
+    "class_limit": "39",
+    "class_code": "96668"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Syed Tauqeer Ahmed",
+    "start_time": "17:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 30,
+    "class_limit": "40",
+    "class_code": "97200"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Mohammad Shoaib Jamall",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97755"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Javed Iqbal",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96653"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Danish Ali",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97746"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Syed Asim Ali",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "97333"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Akhter Raza Syed",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "41",
+    "class_code": "96947"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Noureen Ayaz",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 40,
+    "class_limit": "45",
+    "class_code": "96910"
+  },
+  {
+    "name": "Introduction to Academic Writing",
+    "faculty": "Maria Hassan",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 36,
+    "class_limit": "37",
+    "class_code": "97222"
+  },
+  {
+    "name": "INTERNATIONAL TRADE",
+    "faculty": "Dr. Aadil Nakhoda",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 54,
+    "class_limit": "54",
+    "class_code": "97440"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Tahira Maryam Jafferi",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "96905"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Nida Aslam Khan",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97261"
+  },
+  {
+    "name": "DESIGN & ANALYSIS OF ALGORITHMS",
+    "faculty": "Dr. Shahid Hussain",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 90,
+    "class_limit": "91",
+    "class_code": "96888"
+  },
+  {
+    "name": "DATA STRUCTURES",
+    "faculty": "Dr. Imran Rauf",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 41,
+    "class_limit": "41",
+    "class_code": "96908"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Zohaib Aziz",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 39,
+    "class_limit": "43",
+    "class_code": "96801"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Syed Inayatullah",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "96804"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Dr. Nauman J. Amin",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 35,
+    "class_limit": "45",
+    "class_code": "97697"
+  },
+  {
+    "name": "Real Analysis -1",
+    "faculty": "Ahmad Raza",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 25,
+    "class_limit": "40",
+    "class_code": "97238"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Khadija Malik Bari",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "96743"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Samina Wahid Perozani",
+    "start_time": "17:30",
+    "days": "MON - WED",
+    "std_enrolled": 22,
+    "class_limit": "25",
+    "class_code": "96664"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Zunaira Nadeem",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 35,
+    "class_limit": "38",
+    "class_code": "97155"
+  },
+  {
+    "name": "INTRODUCTION TO DIFFERENTIAL EQUATIONS",
+    "faculty": "Dr. Shabana Nisar",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 36,
+    "class_limit": "40",
+    "class_code": "97407"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Dr. Nauman J. Amin",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "47",
+    "class_code": "97389"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "SYED AHMED",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 57,
+    "class_limit": "57",
+    "class_code": "97067"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Syed Atif Murtaza Qaiser",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97157"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Imran Nasir",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "97425"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "SAMREEN ZAMAN",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 39,
+    "class_limit": "50",
+    "class_code": "96802"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Asad Bilal Rizvi",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "51",
+    "class_code": "96744"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I (Language Lab)",
+    "faculty": "Ubaid Ur Rahman",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 26,
+    "class_limit": "27",
+    "class_code": "96708"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Dr. Syed Ali Raza",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97426"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "MARIA HAQQANI",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 30,
+    "class_limit": "30",
+    "class_code": "96662"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Dr. Syed Jaffar Ahmed",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 21,
+    "class_limit": "45",
+    "class_code": "96694"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Dr. Syed Jaffar Ahmed",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 21,
+    "class_limit": "45",
+    "class_code": "96694"
+  },
+  {
+    "name": "Introduction to Academic Writing",
+    "faculty": "Shumaila Omar",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 23,
+    "class_limit": "35",
+    "class_code": "97229"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "ZULFIQUAR KHAN",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "45",
+    "class_code": "97024"
+  },
+  {
+    "name": "ADVERTISING",
+    "faculty": "KIRAN SARDAR KOHATI",
+    "start_time": "16:00",
+    "days": "TUE",
+    "std_enrolled": 16,
+    "class_limit": "40",
+    "class_code": "97194"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Shafia Imtiaz",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "55",
+    "class_code": "96745"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Amir Bashir",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "97112"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Samreen Kazi",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 34,
+    "class_limit": "40",
+    "class_code": "97124"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Tehmina Qureshi",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "36",
+    "class_code": "97205"
+  },
+  {
+    "name": "Data Manipulation & Visualization",
+    "faculty": "ASAD SAJID",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 60,
+    "class_limit": "60",
+    "class_code": "97048"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Saqib Ur Rehman",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "96842"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Madeeha Omer Lakhani",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 52,
+    "class_limit": "52",
+    "class_code": "97370"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "ZULFIQUAR KHAN",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "49",
+    "class_code": "97000"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Azeem Hasan",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97421"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Zohaib Aziz",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97117"
+  },
+  {
+    "name": "FRENCH LANGUAGE - I",
+    "faculty": "LEROY JOHNS",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "32",
+    "class_code": "96693"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "MARIA HAQQANI",
+    "start_time": "04:00",
+    "days": "MON - WED",
+    "std_enrolled": 17,
+    "class_limit": "25",
+    "class_code": "96659"
+  },
+  {
+    "name": "CHINESE LANGUAGE -I",
+    "faculty": "Zhang Jun",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "38",
+    "class_code": "97240"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Samreen Kazi",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 41,
+    "class_limit": "41",
+    "class_code": "97125"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Nadia Sayeed",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "97293"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER VISION",
+    "faculty": "Dr. Tahir Syed",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 28,
+    "class_limit": "40",
+    "class_code": "97577"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Talat Hameed Davis",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 42,
+    "class_limit": "46",
+    "class_code": "97080"
+  },
+  {
+    "name": "PERSONAL EFFECTIVENESS",
+    "faculty": "Nadia Sayeed",
+    "start_time": "08:30",
+    "days": "SAT",
+    "std_enrolled": 263,
+    "class_limit": "350",
+    "class_code": "97685"
+  },
+  {
+    "name": "Introduction to Academic Writing",
+    "faculty": "Shumaila Omar",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 17,
+    "class_limit": "30",
+    "class_code": "97209"
+  },
+  {
+    "name": "CORPORATE LAW",
+    "faculty": "Rahat Aziz",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 11,
+    "class_limit": "46",
+    "class_code": "97501"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "Dr. Nasir Touheed",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "35",
+    "class_code": "97177"
+  },
+  {
+    "name": "BUSINESS INTELLIGENCE",
+    "faculty": "Dr. Imran Khan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "35",
+    "class_code": "97168"
+  },
+  {
+    "name": "Introduction to Academic Writing",
+    "faculty": "Dr. Anum Tariq",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 23,
+    "class_limit": "25",
+    "class_code": "97769"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Muhammad Imtiaz",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 42,
+    "class_limit": "43",
+    "class_code": "96805"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Nadeem Akhtar",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "44",
+    "class_code": "97060"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Naveed Ahmad",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 64,
+    "class_limit": "70",
+    "class_code": "97091"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Ubedullah Khoso",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 38,
+    "class_limit": "40",
+    "class_code": "96696"
+  },
+  {
+    "name": "NUMERICAL ANALYSIS",
+    "faculty": "Maqsood Alam",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 39,
+    "class_limit": "40",
+    "class_code": "97446"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Hassan Mahmood",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "97305"
+  },
+  {
+    "name": "NETWORK SECURITY",
+    "faculty": "Muhammad Faraz Hyder",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "30",
+    "class_code": "97297"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Engr. Dr. Syed Irfan Nabi",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 43,
+    "class_limit": "43",
+    "class_code": "97066"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Sheikh Muhammad Irfan",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "40",
+    "class_code": "96650"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Fatima Hatim Anjary",
+    "start_time": "10:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 53,
+    "class_limit": "55",
+    "class_code": "97166"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Dr. Mohsin Zahid Khawaja",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 41,
+    "class_limit": "45",
+    "class_code": "96655"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "NAZISH KANWAL",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 56,
+    "class_limit": "56",
+    "class_code": "97401"
+  },
+  {
+    "name": "DISCRETE MATHEMATICS",
+    "faculty": "Umar Shahzad",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "96782"
+  },
+  {
+    "name": "Design Patterns",
+    "faculty": "Aneeq Hashmi",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 43,
+    "class_limit": "44",
+    "class_code": "97320"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Dr. Amer Iqbal Awan",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 47,
+    "class_limit": "45",
+    "class_code": "96663"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Syed Atif Murtaza Qaiser",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97471"
+  },
+  {
+    "name": "CALCULUS - II",
+    "faculty": "SYED MUJAHID ALI",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97434"
+  },
+  {
+    "name": "Introduction to Machine Learning",
+    "faculty": "SOLAT SHEIKH",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 19,
+    "class_limit": "40",
+    "class_code": "97247"
+  },
+  {
+    "name": "Constitutional Development in Pakistan",
+    "faculty": "Dr. Syed Jaffar Ahmed",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 12,
+    "class_limit": "30",
+    "class_code": "97550"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Ahmed Akhtar",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "44",
+    "class_code": "97062"
+  },
+  {
+    "name": "PERSONAL EFFECTIVENESS LVL 1",
+    "faculty": "Nadia Sayeed",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 326,
+    "class_limit": "350",
+    "class_code": "97681"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Rabia Saadi",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "25",
+    "class_code": "97479"
+  },
+  {
+    "name": "MEDIA MANAGEMENT",
+    "faculty": "Ms Kiran Ali",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 54,
+    "class_limit": "54",
+    "class_code": "96675"
+  },
+  {
+    "name": "NETWORK SECURITY",
+    "faculty": "Muhammad Waseem Arain",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "30",
+    "class_code": "97283"
+  },
+  {
+    "name": "HUMAN RESOURCE MANAGEMENT",
+    "faculty": "Dr. Yasir Mansoor Kundi",
+    "start_time": "14:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 87,
+    "class_limit": "90",
+    "class_code": "97175"
+  },
+  {
+    "name": "DATABASE SYSTEMS",
+    "faculty": "Ms Abeera Tariq",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "96917"
+  },
+  {
+    "name": "DATABASE SYSTEMS",
+    "faculty": "Dr. Imran Khan",
+    "start_time": "11:30",
+    "days": "TUE",
+    "std_enrolled": 19,
+    "class_limit": "35",
+    "class_code": "96919"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Dr. Shahid R. Mir",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "96940"
+  },
+  {
+    "name": "Neural Networks and Deep Learning",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "08:30",
+    "days": "SAT",
+    "std_enrolled": 10,
+    "class_limit": "40",
+    "class_code": "97739"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Syed Muhammad Mudabbir",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 31,
+    "class_limit": "40",
+    "class_code": "96821"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Hassan Mahmood",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "97304"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Muhammad Najam Uddin",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 36,
+    "class_limit": "40",
+    "class_code": "97084"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Junaid Alam Khan",
+    "start_time": "10:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 41,
+    "class_limit": "41",
+    "class_code": "97163"
+  },
+  {
+    "name": "OPERATING SYSTEMS",
+    "faculty": "Muhammad Waseem Arain",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 12,
+    "class_limit": "35",
+    "class_code": "97244"
+  },
+  {
+    "name": "Islamic Scholarly Tradition",
+    "faculty": "Dr. Amana Raquib",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "96813"
+  },
+  {
+    "name": "NUMERICAL ANALYSIS",
+    "faculty": "Maqsood Alam",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 32,
+    "class_limit": "40",
+    "class_code": "97138"
+  },
+  {
+    "name": "PERSONAL EFFECTIVENESS LVL 2",
+    "faculty": "Nadia Sayeed",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 229,
+    "class_limit": "350",
+    "class_code": "97682"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "IMRAN SHAHEEN",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "97416"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Hira Khan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 41,
+    "class_limit": "40",
+    "class_code": "97101"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Amir Bashir",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 37,
+    "class_limit": "41",
+    "class_code": "97111"
+  },
+  {
+    "name": "DISCRETE MATHEMATICS",
+    "faculty": "Umar Shahzad",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 51,
+    "class_limit": "51",
+    "class_code": "97331"
+  },
+  {
+    "name": "CORPORATE FINANCE",
+    "faculty": "Dr. Mohsin Zahid Khawaja",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 20,
+    "class_limit": "45",
+    "class_code": "97335"
+  },
+  {
+    "name": "MULTIVARIABLE CALCULUS",
+    "faculty": "Dr. Danish Ali",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "97241"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "DR. ABDUL KAIUM MASUD",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "45",
+    "class_code": "96698"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Zeeshan Atiq",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 59,
+    "class_limit": "60",
+    "class_code": "96994"
+  },
+  {
+    "name": "FINANCIAL MODELING",
+    "faculty": "Syed Irfan Ahmed",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 51,
+    "class_limit": "51",
+    "class_code": "97378"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Dr. Imran Rauf",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 35,
+    "class_limit": "40",
+    "class_code": "97121"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "SYED SHUJAAT HUSSAIN",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "60",
+    "class_code": "97011"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Muhammad  Moiz Khan",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "96710"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Muhammad  Moiz Khan",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "96710"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Dr. Syed Ali Raza",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "40",
+    "class_code": "96808"
+  },
+  {
+    "name": "BORDERS AND BOUNDARIES: SOUTH ASIAN AND MIDDLE EASTERN FEMINIST FICTION",
+    "faculty": "Irum Iqbal Hussain",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 25,
+    "class_limit": "30",
+    "class_code": "96676"
+  },
+  {
+    "name": "DIGITAL LOGIC DESIGN",
+    "faculty": "MUHAMMAD ZAIN UDDIN",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 41,
+    "class_limit": "41",
+    "class_code": "96916"
+  },
+  {
+    "name": "BUSINESS LAW",
+    "faculty": "Mahwish Baasit Hussain",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "96858"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Talat Hameed Davis",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97088"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "SAMREEN ZAMAN",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 37,
+    "class_limit": "45",
+    "class_code": "96998"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Asim Shabir",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 40,
+    "class_limit": "41",
+    "class_code": "96699"
+  },
+  {
+    "name": "FRENCH LANGUAGE - I",
+    "faculty": "LEROY JOHNS",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 29,
+    "class_limit": "31",
+    "class_code": "96692"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Usman Nazir",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 43,
+    "class_limit": "45",
+    "class_code": "97298"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Akhter Raza Syed",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 39,
+    "class_limit": "40",
+    "class_code": "96988"
+  },
+  {
+    "name": "CHINESE LANGUAGE -I",
+    "faculty": "Zhang Jun",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 39,
+    "class_limit": "39",
+    "class_code": "97237"
+  },
+  {
+    "name": "Introduction to Machine Learning",
+    "faculty": "SOLAT SHEIKH",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 31,
+    "class_limit": "40",
+    "class_code": "97142"
+  },
+  {
+    "name": "CALCULUS - II",
+    "faculty": "SYED AHSAN KAMAL",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 27,
+    "class_limit": "40",
+    "class_code": "97432"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "HAFIZA AMER",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 34,
+    "class_limit": "40",
+    "class_code": "97424"
+  },
+  {
+    "name": "Transnational Islamic Politics in the Post-9/11 World",
+    "faculty": "Sajjad Ahmad",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 31,
+    "class_limit": "31",
+    "class_code": "96729"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Samina Wahid Perozani",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 45,
+    "class_limit": "37",
+    "class_code": "96996"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Dr. Azima Khan",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 24,
+    "class_limit": "45",
+    "class_code": "96992"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Farah Yasmeen",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "45",
+    "class_code": "97748"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Zunaira Nadeem",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 19,
+    "class_limit": "25",
+    "class_code": "97147"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Qazi Masood Ahmed",
+    "start_time": "10:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 31,
+    "class_limit": "40",
+    "class_code": "97052"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Syed Tauqeer Ahmed",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 32,
+    "class_limit": "40",
+    "class_code": "97087"
+  },
+  {
+    "name": "FINANCIAL MODELING",
+    "faculty": "Saad Usman",
+    "start_time": "20:00",
+    "days": "MON - WED",
+    "std_enrolled": 34,
+    "class_limit": "45",
+    "class_code": "97386"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Syed Farhan Shaukat",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 25,
+    "class_limit": "25",
+    "class_code": "97493"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Fatima Hatim Anjary",
+    "start_time": "08:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 59,
+    "class_limit": "61",
+    "class_code": "97150"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Farhan Ahmed Siddiqui",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 39,
+    "class_limit": "40",
+    "class_code": "97143"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Saqib Ur Rehman",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96841"
+  },
+  {
+    "name": "SOFTWARE ENGINEERING",
+    "faculty": "Furqan Hussain",
+    "start_time": "17:30",
+    "days": "MON - WED",
+    "std_enrolled": 37,
+    "class_limit": "42",
+    "class_code": "97082"
+  },
+  {
+    "name": "ABSTRACT ALGEBRA-I",
+    "faculty": "Dr. Junaid Alam Khan",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 17,
+    "class_limit": "40",
+    "class_code": "97224"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "MUNIBA KHAN",
+    "start_time": "11:30",
+    "days": "SAT",
+    "std_enrolled": 50,
+    "class_limit": "52",
+    "class_code": "96877"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Madeeha Omer Lakhani",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 51,
+    "class_limit": "52",
+    "class_code": "97591"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "IMRAN SHAHEEN",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 54,
+    "class_limit": "55",
+    "class_code": "96746"
+  },
+  {
+    "name": "Fundamentals of Supply Chain Management",
+    "faculty": "Adnan Ahmed",
+    "start_time": "17:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97201"
+  },
+  {
+    "name": "Deep Learning",
+    "faculty": "Dr. Tahir Syed",
+    "start_time": "14:00",
+    "days": "SAT",
+    "std_enrolled": 19,
+    "class_limit": "40",
+    "class_code": "96943"
+  },
+  {
+    "name": "GERMAN LANGUAGE",
+    "faculty": "Ms. Nuzhat Saad",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 36,
+    "class_limit": "37",
+    "class_code": "97165"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Tehmina Qureshi",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 55,
+    "class_limit": "56",
+    "class_code": "97741"
+  },
+  {
+    "name": "Marketing for Startups",
+    "faculty": "Syed Muhammad Ali Bukhari",
+    "start_time": "11:30",
+    "days": "SAT",
+    "std_enrolled": 11,
+    "class_limit": "40",
+    "class_code": "97687"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "SAMREEN ZAMAN",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "96806"
+  },
+  {
+    "name": "WEB BASED APPLICATION DEVELOPMENT",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "30",
+    "class_code": "97332"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Tahira Maryam Jafferi",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96852"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Ms Nassera Naushad Ali",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 31,
+    "class_limit": "35",
+    "class_code": "97496"
+  },
+  {
+    "name": "CORPORATE FINANCE",
+    "faculty": "Dr. Mohsin Zahid Khawaja",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 0,
+    "class_limit": "45",
+    "class_code": "97337"
+  },
+  {
+    "name": "OPERATING SYSTEMS",
+    "faculty": "TASBIHA FATIMA",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "96918"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Parmal Ahmed",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "97326"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Parmal Ahmed",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "97326"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Hassan Mahmood",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 51,
+    "class_limit": "51",
+    "class_code": "97302"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Sarah Mazhar",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 42,
+    "class_limit": "45",
+    "class_code": "97294"
+  },
+  {
+    "name": "CHINESE LANGUAGE -I",
+    "faculty": "Saher Iqbal",
+    "start_time": "10:00",
+    "days": "TUE",
+    "std_enrolled": 14,
+    "class_limit": "25",
+    "class_code": "96880"
+  },
+  {
+    "name": "PERSONAL EFFECTIVENESS LVL 2",
+    "faculty": "Nadia Sayeed",
+    "start_time": "10:00",
+    "days": "FRI",
+    "std_enrolled": 271,
+    "class_limit": "350",
+    "class_code": "97679"
+  },
+  {
+    "name": "Introduction to Academic Writing",
+    "faculty": "Shumaila Omar",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 19,
+    "class_limit": "35",
+    "class_code": "97329"
+  },
+  {
+    "name": "DATABASE SYSTEMS",
+    "faculty": "Ms Abeera Tariq",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97054"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Imran Javed Hassan",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 26,
+    "class_limit": "46",
+    "class_code": "96854"
+  },
+  {
+    "name": "Programming Quantum Computers",
+    "faculty": "Dr. Jibran Rashid",
+    "start_time": "20:00",
+    "days": "MON - WED",
+    "std_enrolled": 12,
+    "class_limit": "30",
+    "class_code": "96928"
+  },
+  {
+    "name": "Feminist Legal Theory and Practice",
+    "faculty": "Abira Ashfaq",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 17,
+    "class_limit": "30",
+    "class_code": "96855"
+  },
+  {
+    "name": "PRINCIPLES OF ACCOUNTING - I",
+    "faculty": "Annie Ahmad",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 55,
+    "class_limit": "57",
+    "class_code": "97510"
+  },
+  {
+    "name": "Labour, Capital and Colonialism: The making of modern South Asia",
+    "faculty": "Dr. Ahmad Azhar",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "32",
+    "class_code": "96713"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Dr. Farah Yasmeen",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96980"
+  },
+  {
+    "name": "NUMERICAL ANALYSIS",
+    "faculty": "Maqsood Alam",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "97173"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Tahira Maryam Jafferi",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "50",
+    "class_code": "96876"
+  },
+  {
+    "name": "FINANCIAL MODELING",
+    "faculty": "Saad Usman",
+    "start_time": "18:30",
+    "days": "MON - WED",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "97381"
+  },
+  {
+    "name": "CALCULUS - II",
+    "faculty": "MUHAMMAD SAMI SIDDIQUI",
+    "start_time": "17:30",
+    "days": "MON - WED",
+    "std_enrolled": 17,
+    "class_limit": "40",
+    "class_code": "96816"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Usman Ali",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "44",
+    "class_code": "97099"
+  },
+  {
+    "name": "THEORY OF AUTOMATA",
+    "faculty": "Asma Sanam",
+    "start_time": "11:30",
+    "days": "SAT",
+    "std_enrolled": 49,
+    "class_limit": "49",
+    "class_code": "97551"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Hassan Mahmood",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 55,
+    "class_limit": "55",
+    "class_code": "97300"
+  },
+  {
+    "name": "NONLINEAR DYNAMICS AND CHAOS",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97336"
+  },
+  {
+    "name": "Optimization Techniques",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97367"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I",
+    "faculty": "Muhammad Naeem",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 34,
+    "class_limit": "34",
+    "class_code": "97078"
+  },
+  {
+    "name": "CORPORATE LAW",
+    "faculty": "Rahat Aziz",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "42",
+    "class_code": "97334"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Noureen Ayaz",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 41,
+    "class_limit": "45",
+    "class_code": "96654"
+  },
+  {
+    "name": "PRINCIPLES OF MICROECONOMICS",
+    "faculty": "SYED AHMED",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 54,
+    "class_limit": "55",
+    "class_code": "97010"
+  },
+  {
+    "name": "MULTIVARIABLE CALCULUS",
+    "faculty": "Dr. Danish Ali",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "40",
+    "class_code": "97225"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Syed Farhan Shaukat",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 30,
+    "class_limit": "25",
+    "class_code": "97478"
+  },
+  {
+    "name": "DIGITAL LOGIC DESIGN",
+    "faculty": "Dr. Salman Zaffar",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 24,
+    "class_limit": "40",
+    "class_code": "97158"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Ramsha Siddiqui",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96850"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Ramsha Siddiqui",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96850"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Zohaib Aziz",
+    "start_time": "17:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 38,
+    "class_limit": "41",
+    "class_code": "96982"
+  },
+  {
+    "name": "FRENCH LANGUAGE II",
+    "faculty": "LEROY JOHNS",
+    "start_time": "14:30",
+    "days": "TUE",
+    "std_enrolled": 6,
+    "class_limit": "25",
+    "class_code": "97504"
+  },
+  {
+    "name": "Introduction to Cryptography",
+    "faculty": "TASBIHA FATIMA",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 12,
+    "class_limit": "35",
+    "class_code": "97159"
+  },
+  {
+    "name": "Introduction to Network Data Analysis",
+    "faculty": "Bilal Butt",
+    "start_time": "08:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97603"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Dr. Shahid R. Mir",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "96895"
+  },
+  {
+    "name": "FRENCH LANGUAGE - I",
+    "faculty": "LEROY JOHNS",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 36,
+    "class_limit": "36",
+    "class_code": "96721"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Madeeha Omer Lakhani",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 51,
+    "class_limit": "52",
+    "class_code": "97592"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I",
+    "faculty": "Muhammad Naeem",
+    "start_time": "08:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 26,
+    "class_limit": "30",
+    "class_code": "97185"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Yasmin Zafar",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97291"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Dr. Imran Rauf",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 30,
+    "class_limit": "40",
+    "class_code": "97116"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "Ghias Hassan Khan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "48",
+    "class_code": "96856"
+  },
+  {
+    "name": "ARABIC LANGUAGE-II",
+    "faculty": "Abutahir siddiqui",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 7,
+    "class_limit": "25",
+    "class_code": "97508"
+  },
+  {
+    "name": "FINANCIAL MODELING",
+    "faculty": "Syed Irfan Ahmed",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 43,
+    "class_limit": "47",
+    "class_code": "97368"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Ramsha Siddiqui",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "48",
+    "class_code": "96867"
+  },
+  {
+    "name": "Fragments, Footnotes, and other Other Forms in Fiction",
+    "faculty": "Ms Palvashay Sethi",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 32,
+    "class_limit": "33",
+    "class_code": "96870"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Muhammad Imtiaz",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 60,
+    "class_limit": "61",
+    "class_code": "96779"
+  },
+  {
+    "name": "HUMAN COMPUTER INTERACTION",
+    "faculty": "Behraj Khan",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "96920"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Muhammad  Moiz Khan",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96709"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Annie Ahmad",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96649"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Ramsha Siddiqui",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "48",
+    "class_code": "96867"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Muhammad  Moiz Khan",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96709"
+  },
+  {
+    "name": "DIGITAL LOGIC DESIGN",
+    "faculty": "MUHAMMAD ZAIN UDDIN",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 41,
+    "class_limit": "41",
+    "class_code": "97140"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Dr. Shahid R. Mir",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 49,
+    "class_limit": "50",
+    "class_code": "96847"
+  },
+  {
+    "name": "Lights, Camera, History: Representations of Medieval South Asia in Bollywood",
+    "faculty": "Aliya Iqbal Naqvi",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 24,
+    "class_limit": "35",
+    "class_code": "96866"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Mr Saqib Ahmed",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "96691"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Mr Saqib Ahmed",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "96691"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTING",
+    "faculty": "Jawwad Farid",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 31,
+    "class_limit": "70",
+    "class_code": "97152"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTING",
+    "faculty": "Jawwad Farid",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 38,
+    "class_limit": "80",
+    "class_code": "97151"
+  },
+  {
+    "name": "BRAND MANAGEMENT",
+    "faculty": "Dr. Farah Naz Baig",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "96889"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Naveed Ahmad",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 57,
+    "class_limit": "70",
+    "class_code": "97038"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Farah Yasmeen",
+    "start_time": "14:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 30,
+    "class_limit": "40",
+    "class_code": "97171"
+  },
+  {
+    "name": "CORPORATE LAW",
+    "faculty": "Mahwish Baasit Hussain",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97338"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Javeria Younas Abbasi",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 35,
+    "class_limit": "40",
+    "class_code": "96981"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Hira Khan",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "97105"
+  },
+  {
+    "name": "Introduction to Trade Marketing",
+    "faculty": "Adnan Ahmed",
+    "start_time": "14:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97172"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Dr. Mohsin Sadaqat",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "97359"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Muhammad Najam Uddin",
+    "start_time": "17:30",
+    "days": "MON - WED",
+    "std_enrolled": 43,
+    "class_limit": "43",
+    "class_code": "97123"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Samina Wahid Perozani",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 21,
+    "class_limit": "25",
+    "class_code": "97492"
+  },
+  {
+    "name": "WEB BASED APPLICATION DEVELOPMENT",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "30",
+    "class_code": "97144"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Nida Aslam Khan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 37,
+    "class_limit": "40",
+    "class_code": "96881"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Aitzaz Ahsan Alias Sarang",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "49",
+    "class_code": "97002"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Tehmina Qureshi",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 16,
+    "class_limit": "25",
+    "class_code": "97221"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "Ghias Hassan Khan",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 42,
+    "class_limit": "45",
+    "class_code": "96848"
+  },
+  {
+    "name": "ISLAMIC BANKING & FINANCE",
+    "faculty": "Mr Muhammad Farhan Ul Haq Usmani",
+    "start_time": "18:00",
+    "days": "WED",
+    "std_enrolled": 0,
+    "class_limit": "42",
+    "class_code": "97231"
+  },
+  {
+    "name": "Analytical Approach to Marketing Decision",
+    "faculty": "Hassaan Khalid",
+    "start_time": "18:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 44,
+    "class_limit": "46",
+    "class_code": "97191"
+  },
+  {
+    "name": "INTRODUCTION TO PROGRAMMING",
+    "faculty": "Maria Rahim",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 31,
+    "class_limit": "40",
+    "class_code": "97126"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Fatima Hatim Anjary",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 59,
+    "class_limit": "59",
+    "class_code": "96807"
+  },
+  {
+    "name": "FINANCIAL MANAGEMENT",
+    "faculty": "Mujeeb U Rehman Bhayo",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 17,
+    "class_limit": "45",
+    "class_code": "97385"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Kamil Yousuf",
+    "start_time": "11:30",
+    "days": "SAT",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "97156"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Samina Wahid Perozani",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "50",
+    "class_code": "96978"
+  },
+  {
+    "name": "FINANCIAL INSTITUTIONS AND MARKETS",
+    "faculty": "Aitzaz Ahsan Alias Sarang",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 51,
+    "class_limit": "53",
+    "class_code": "97310"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Sarah Mazhar",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "97295"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTING",
+    "faculty": "Jawwad Farid",
+    "start_time": "08:30",
+    "days": "THU",
+    "std_enrolled": 43,
+    "class_limit": "80",
+    "class_code": "96756"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Khadija Malik Bari",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 33,
+    "class_limit": "40",
+    "class_code": "96761"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "Zaira Anees",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 56,
+    "class_limit": "56",
+    "class_code": "96680"
+  },
+  {
+    "name": "DERIVATIVES",
+    "faculty": "Arif Irfanullah",
+    "start_time": "11:30",
+    "days": "MON",
+    "std_enrolled": 55,
+    "class_limit": "55",
+    "class_code": "97499"
+  },
+  {
+    "name": "CHINESE LANGUAGE GROUP II",
+    "faculty": "Zhang Jun",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 21,
+    "class_limit": "25",
+    "class_code": "97146"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Ms Kiran Ali",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 41,
+    "class_limit": "40",
+    "class_code": "97263"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Imran Nasir",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 34,
+    "class_limit": "40",
+    "class_code": "97145"
+  },
+  {
+    "name": "Analytical Approach to Marketing Decision",
+    "faculty": "Hassaan Khalid",
+    "start_time": "18:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "97199"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Ubedullah Khoso",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "96697"
+  },
+  {
+    "name": "ESSENTIAL SOFTWARE",
+    "faculty": "MUHAMMAD SHAHID ASHRAF",
+    "start_time": "17:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 15,
+    "class_limit": "40",
+    "class_code": "97600"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTING",
+    "faculty": "Jawwad Farid",
+    "start_time": "08:30",
+    "days": "TUE",
+    "std_enrolled": 37,
+    "class_limit": "40",
+    "class_code": "97752"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Anum Abbas",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97423"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Nadeem Akhtar",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 41,
+    "class_limit": "41",
+    "class_code": "97103"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "DR. ABDUL KAIUM MASUD",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "96646"
+  },
+  {
+    "name": "BUSINESS LAW",
+    "faculty": "Mahwish Baasit Hussain",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 51,
+    "class_limit": "40",
+    "class_code": "96849"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Dr. Nasir A. Afghan",
+    "start_time": "14:30",
+    "days": "WED",
+    "std_enrolled": 13,
+    "class_limit": "46",
+    "class_code": "96700"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Syed Tauqeer Ahmed",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 30,
+    "class_limit": "41",
+    "class_code": "97203"
+  },
+  {
+    "name": "ORGANIZATIONAL BEHAVIOR",
+    "faculty": "Dr. Amer Iqbal Awan",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 55,
+    "class_limit": "56",
+    "class_code": "96687"
+  },
+  {
+    "name": "BIG DATA ANALYTICS",
+    "faculty": "Dr. Tariq Mahmood",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97686"
+  },
+  {
+    "name": "DATA STRUCTURES",
+    "faculty": "Dr. Mohammad Shoaib Jamall",
+    "start_time": "11:30",
+    "days": "MON",
+    "std_enrolled": 29,
+    "class_limit": "40",
+    "class_code": "97050"
+  },
+  {
+    "name": "DIGITAL LOGIC DESIGN",
+    "faculty": "MUHAMMAD ZAIN UDDIN",
+    "start_time": "16:00",
+    "days": "WED",
+    "std_enrolled": 35,
+    "class_limit": "40",
+    "class_code": "97072"
+  },
+  {
+    "name": "PUBLIC FINANCE",
+    "faculty": "Dr. Qazi Masood Ahmed",
+    "start_time": "10:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97451"
+  },
+  {
+    "name": "Tech Product Marketing",
+    "faculty": "Sumayyah Khurshid Khan",
+    "start_time": "14:30",
+    "days": "MON",
+    "std_enrolled": 27,
+    "class_limit": "45",
+    "class_code": "97495"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Syed Farhan Shaukat",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "25",
+    "class_code": "97474"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Sarah Mazhar",
+    "start_time": "10:45",
+    "days": "FRI",
+    "std_enrolled": 23,
+    "class_limit": "45",
+    "class_code": "97289"
+  },
+  {
+    "name": "SOFTWARE ENGINEERING",
+    "faculty": "Furqan Hussain",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 20,
+    "class_limit": "40",
+    "class_code": "97288"
+  },
+  {
+    "name": "DATA STRUCTURES",
+    "faculty": "Dr. Mohammad Shoaib Jamall",
+    "start_time": "11:30",
+    "days": "WED",
+    "std_enrolled": 0,
+    "class_limit": "38",
+    "class_code": "96929"
+  },
+  {
+    "name": "ISLAMIC BANKING & FINANCE",
+    "faculty": "Dr. Irum Saba",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 65,
+    "class_limit": "65",
+    "class_code": "97357"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Imran Nasir",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 36,
+    "class_limit": "40",
+    "class_code": "97154"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "Dr. Nasir Touheed",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 39,
+    "class_limit": "42",
+    "class_code": "97282"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Usman Nazir",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 38,
+    "class_limit": "42",
+    "class_code": "97296"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Asim Shabir",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96689"
+  },
+  {
+    "name": "ESSENTIAL SOFTWARE",
+    "faculty": "MUHAMMAD SHAHID ASHRAF",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 25,
+    "class_limit": "40",
+    "class_code": "97366"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Khadija Malik Bari",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 38,
+    "class_limit": "40",
+    "class_code": "96794"
+  },
+  {
+    "name": "PRINCIPLES OF MICROECONOMICS",
+    "faculty": "Dr. Ateeb Syed",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "53",
+    "class_code": "96812"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Dr. Humera Naz",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 26,
+    "class_limit": "45",
+    "class_code": "96695"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Dr. Humera Naz",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 26,
+    "class_limit": "45",
+    "class_code": "96695"
+  },
+  {
+    "name": "CALCULUS - II",
+    "faculty": "SYED MUJAHID ALI",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "97430"
+  },
+  {
+    "name": "Venture Capital and Innovation in Finance",
+    "faculty": "Rabeel Warraich",
+    "start_time": "16:00",
+    "days": "THU",
+    "std_enrolled": 107,
+    "class_limit": "107",
+    "class_code": "97053"
+  },
+  {
+    "name": "DATABASE SYSTEMS",
+    "faculty": "Dr. Imran Khan",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 26,
+    "class_limit": "40",
+    "class_code": "97702"
+  },
+  {
+    "name": "Introduction to Academic Writing",
+    "faculty": "Maria Hassan",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 28,
+    "class_limit": "38",
+    "class_code": "97230"
+  },
+  {
+    "name": "FRENCH LANGUAGE - I",
+    "faculty": "LEROY JOHNS",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 43,
+    "class_limit": "32",
+    "class_code": "97202"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Sajjad Ahmad",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 29,
+    "class_limit": "40",
+    "class_code": "96660"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Sajjad Ahmad",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 29,
+    "class_limit": "40",
+    "class_code": "96660"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "ZEESHAN BHAYANI",
+    "start_time": "10:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 26,
+    "class_limit": "40",
+    "class_code": "97280"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Mr Babur Khan Suri",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 25,
+    "class_limit": "25",
+    "class_code": "96656"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I",
+    "faculty": "Ubaid Ur Rahman",
+    "start_time": "16:00",
+    "days": "TUE",
+    "std_enrolled": 35,
+    "class_limit": "35",
+    "class_code": "96995"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Javed Iqbal",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "47",
+    "class_code": "96678"
+  },
+  {
+    "name": "Poverty and Income Distribution",
+    "faculty": "Dr. Lubna Naz",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 49,
+    "class_limit": "51",
+    "class_code": "96823"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Muhammad Najam Uddin",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 48,
+    "class_limit": "48",
+    "class_code": "97051"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Mr Saqib Ahmed",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96707"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Mr Saqib Ahmed",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96707"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "KIRAN SARDAR KOHATI",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "40",
+    "class_code": "97262"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Muhammad Shahid Waheed",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "97321"
+  },
+  {
+    "name": "Management & Organizational Behavior",
+    "faculty": "Dr. Sara Khan",
+    "start_time": "13:00",
+    "days": "SAT",
+    "std_enrolled": 0,
+    "class_limit": "47",
+    "class_code": "97308"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Dr. Farah Naz Baig",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "97025"
+  },
+  {
+    "name": "HUMAN COMPUTER INTERACTION",
+    "faculty": "Behraj Khan",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 31,
+    "class_limit": "40",
+    "class_code": "96941"
+  },
+  {
+    "name": "CHINESE LANGUAGE -I",
+    "faculty": "Sobia Akbar",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 33,
+    "class_limit": "33",
+    "class_code": "96887"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "Dr. Muhammad Asif Jaffer",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 37,
+    "class_limit": "45",
+    "class_code": "96666"
+  },
+  {
+    "name": "Cloud Computing",
+    "faculty": "Mr SAIYED SHAHAB AHMED",
+    "start_time": "10:00",
+    "days": "SAT",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97566"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Dr. Akhter Raza Syed",
+    "start_time": "08:30",
+    "days": "SAT",
+    "std_enrolled": 15,
+    "class_limit": "40",
+    "class_code": "96894"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "DR. ABDUL KAIUM MASUD",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "96645"
+  },
+  {
+    "name": "Introduction to Philosophy of Religion",
+    "faculty": "Dr. Moiz Hasan",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 19,
+    "class_limit": "30",
+    "class_code": "97561"
+  },
+  {
+    "name": "FINANCIAL MODELING",
+    "faculty": "Syed Irfan Ahmed",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 41,
+    "class_limit": "45",
+    "class_code": "97362"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Ghias Hassan Khan",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 47,
+    "class_limit": "47",
+    "class_code": "96643"
+  },
+  {
+    "name": "FRENCH LANGUAGE - I",
+    "faculty": "LEROY JOHNS",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 30,
+    "class_limit": "32",
+    "class_code": "97281"
+  },
+  {
+    "name": "PRINCIPLES OF MICROECONOMICS",
+    "faculty": "Dr. Ateeb Syed",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 53,
+    "class_limit": "54",
+    "class_code": "96984"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTING",
+    "faculty": "Jawwad Farid",
+    "start_time": "08:30",
+    "days": "TUE",
+    "std_enrolled": 30,
+    "class_limit": "40",
+    "class_code": "97751"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Dr. Syed Jaffar Ahmed",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "45",
+    "class_code": "96684"
+  },
+  {
+    "name": "APPLICATION DEVELOPMENT FOR MOBILE DEVICES",
+    "faculty": "Rao Muhammad Noman",
+    "start_time": "08:30",
+    "days": "TUE",
+    "std_enrolled": 18,
+    "class_limit": "40",
+    "class_code": "97328"
+  },
+  {
+    "name": "Analytical Approach to Marketing Decision",
+    "faculty": "Hassaan Khalid",
+    "start_time": "18:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 45,
+    "class_limit": "45",
+    "class_code": "97189"
+  },
+  {
+    "name": "PAKISTAN HISTORY",
+    "faculty": "Dr. Syed Jaffar Ahmed",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 32,
+    "class_limit": "45",
+    "class_code": "96684"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Javeria Younas Abbasi",
+    "start_time": "13:00",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "96811"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "NOREEN SALMAN QAYAM",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "97250"
+  },
+  {
+    "name": "PRINCIPLES OF MICROECONOMICS",
+    "faculty": "Sahar Arshad Mahmood",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 51,
+    "class_limit": "53",
+    "class_code": "96800"
+  },
+  {
+    "name": "PERSONAL EFFECTIVENESS LVL 1",
+    "faculty": "Nadia Sayeed",
+    "start_time": "08:30",
+    "days": "FRI",
+    "std_enrolled": 332,
+    "class_limit": "400",
+    "class_code": "97678"
+  },
+  {
+    "name": "INTRODUCTION TO DIFFERENTIAL EQUATIONS",
+    "faculty": "Dr. Shabana Nisar",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 35,
+    "class_limit": "40",
+    "class_code": "97445"
+  },
+  {
+    "name": "MANAGEMENT ACCOUNTING",
+    "faculty": "Dr. Danish Godil",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 0,
+    "class_limit": "45",
+    "class_code": "96677"
+  },
+  {
+    "name": "OPERATING SYSTEMS",
+    "faculty": "TASBIHA FATIMA",
+    "start_time": "11:30",
+    "days": "MON - WED",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "96951"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Zahra Riaz Nakhoda",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 18,
+    "class_limit": "43",
+    "class_code": "96642"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Muhammad Najam Uddin",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 50,
+    "class_limit": "50",
+    "class_code": "97122"
+  },
+  {
+    "name": "WEB BASED APPLICATION DEVELOPMENT",
+    "faculty": "TBA Teacher To be Allocated",
+    "start_time": "13:00",
+    "days": "SAT",
+    "std_enrolled": 11,
+    "class_limit": "40",
+    "class_code": "97740"
+  },
+  {
+    "name": "ISLAMIC BANKING & FINANCE",
+    "faculty": "Dr. Irum Saba",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 31,
+    "class_limit": "45",
+    "class_code": "97353"
+  },
+  {
+    "name": "NUMERICAL ANALYSIS",
+    "faculty": "Dr. Abdul Majid",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 44,
+    "class_limit": "45",
+    "class_code": "97183"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Qazi Masood Ahmed",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 35,
+    "class_limit": "40",
+    "class_code": "97003"
+  },
+  {
+    "name": "NUMERICAL ANALYSIS",
+    "faculty": "Dr. Abdul Majid",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 27,
+    "class_limit": "40",
+    "class_code": "97316"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Junaid Alam Khan",
+    "start_time": "11:30",
+    "days": "FRI - SAT",
+    "std_enrolled": 18,
+    "class_limit": "40",
+    "class_code": "97186"
+  },
+  {
+    "name": "Spanish l",
+    "faculty": "Francisco Javier Merello",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 28,
+    "class_limit": "28",
+    "class_code": "96953"
+  },
+  {
+    "name": "History of Art: Foundational Survey",
+    "faculty": "Nageen Jawaid Shaikh",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 17,
+    "class_limit": "30",
+    "class_code": "96846"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Syed Asim Ali",
+    "start_time": "08:30",
+    "days": "SAT",
+    "std_enrolled": 57,
+    "class_limit": "57",
+    "class_code": "97324"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Zahra Riaz Nakhoda",
+    "start_time": "10:00",
+    "days": "MON - WED",
+    "std_enrolled": 30,
+    "class_limit": "45",
+    "class_code": "96644"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "Dr. Syed Inayatullah",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 23,
+    "class_limit": "40",
+    "class_code": "97068"
+  },
+  {
+    "name": "SPEECH COMMUNICATION",
+    "faculty": "Zunaira Nadeem",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 18,
+    "class_limit": "25",
+    "class_code": "97149"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Ahmed Akhtar",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "97102"
+  },
+  {
+    "name": "NUMERICAL ANALYSIS",
+    "faculty": "Dr. Abdul Majid",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 40,
+    "class_limit": "40",
+    "class_code": "97290"
+  },
+  {
+    "name": "CORPORATE LAW",
+    "faculty": "Mahwish Baasit Hussain",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 47,
+    "class_limit": "45",
+    "class_code": "97344"
+  },
+  {
+    "name": "MICROECONOMICS",
+    "faculty": "Dr. Asad Bilal Rizvi",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 54,
+    "class_limit": "56",
+    "class_code": "96772"
+  },
+  {
+    "name": "INTRODUCTION TO BUSINESS FINANCE",
+    "faculty": "Dr. Mohsin Zahid Khawaja",
+    "start_time": "16:00",
+    "days": "MON - WED",
+    "std_enrolled": 28,
+    "class_limit": "45",
+    "class_code": "96853"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Dr. Farah Yasmeen",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97001"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Nadia Sayeed",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 49,
+    "class_limit": "50",
+    "class_code": "97292"
+  },
+  {
+    "name": "PERSONAL EFFECTIVENESS",
+    "faculty": "Nadia Sayeed",
+    "start_time": "08:30",
+    "days": "SAT",
+    "std_enrolled": 239,
+    "class_limit": "350",
+    "class_code": "97683"
+  },
+  {
+    "name": "PRINCIPLES OF MARKETING",
+    "faculty": "Sheikh Muhammad Irfan",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 52,
+    "class_limit": "52",
+    "class_code": "97235"
+  },
+  {
+    "name": "OPERATING SYSTEMS",
+    "faculty": "Dr. Salman Zaffar",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 46,
+    "class_limit": "46",
+    "class_code": "97301"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "NAZISH KANWAL",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 40,
+    "class_limit": "41",
+    "class_code": "97453"
+  },
+  {
+    "name": "CALCULUS - I",
+    "faculty": "SYED SHUJAAT HUSSAIN",
+    "start_time": "17:30",
+    "days": "TUE - THU",
+    "std_enrolled": 22,
+    "class_limit": "40",
+    "class_code": "97047"
+  },
+  {
+    "name": "Reading Karachi: History and U",
+    "faculty": "Soha Abdul Rehman Macktoom",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 30,
+    "class_limit": "31",
+    "class_code": "96857"
+  },
+  {
+    "name": "STATISTICAL INFERENCE",
+    "faculty": "Syed Muhammad Mudabbir",
+    "start_time": "16:00",
+    "days": "TUE - THU",
+    "std_enrolled": 32,
+    "class_limit": "40",
+    "class_code": "96997"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I",
+    "faculty": "Abdullah Khan",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 36,
+    "class_limit": "36",
+    "class_code": "97444"
+  },
+  {
+    "name": "Essentials of Information Security",
+    "faculty": "Dr. S.M. Faisal Iradat",
+    "start_time": "18:00",
+    "days": "FRI",
+    "std_enrolled": 23,
+    "class_limit": "45",
+    "class_code": "97576"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Zahra Riaz Nakhoda",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 15,
+    "class_limit": "45",
+    "class_code": "96648"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "Dr. Nasir Touheed",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 21,
+    "class_limit": "40",
+    "class_code": "97307"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I",
+    "faculty": "Abdullah Khan",
+    "start_time": "13:00",
+    "days": "MON - WED",
+    "std_enrolled": 37,
+    "class_limit": "37",
+    "class_code": "97441"
+  },
+  {
+    "name": "BUSINESS COMMUNICATION",
+    "faculty": "Syed Asim Ali",
+    "start_time": "08:30",
+    "days": "TUE - THU",
+    "std_enrolled": 1,
+    "class_limit": "35",
+    "class_code": "97775"
+  },
+  {
+    "name": "INTRODUCTION TO COMPUTER APPLICATIONS",
+    "faculty": "Engr. Dr. Syed Irfan Nabi",
+    "start_time": "11:30",
+    "days": "TUE - THU",
+    "std_enrolled": 42,
+    "class_limit": "42",
+    "class_code": "97104"
+  },
+  {
+    "name": "ARABIC LANGUAGE-I (Language Lab)",
+    "faculty": "Syed Farid Iqbal",
+    "start_time": "08:30",
+    "days": "MON",
+    "std_enrolled": 0,
+    "class_limit": "25",
+    "class_code": "96738"
+  },
+  {
+    "name": "DIGITAL LOGIC DESIGN",
+    "faculty": "MUHAMMAD ZAIN UDDIN",
+    "start_time": "14:30",
+    "days": "TUE - THU",
+    "std_enrolled": 23,
+    "class_limit": "40",
+    "class_code": "97701"
+  },
+  {
+    "name": "LINEAR ALGEBRA",
+    "faculty": "Dr. Hisham bin Zubair",
+    "start_time": "14:30",
+    "days": "MON - WED",
+    "std_enrolled": 62,
+    "class_limit": "63",
+    "class_code": "97076"
+  },
+  {
+    "name": "INTRODUCTION TO STATISTICS",
+    "faculty": "Mudassir Uddin",
+    "start_time": "16:00",
+    "days": "FRI - SAT",
+    "std_enrolled": 32,
+    "class_limit": "40",
+    "class_code": "96742"
+  },
+  {
+    "name": "FINANCIAL ACCOUNTING",
+    "faculty": "Ghias Hassan Khan",
+    "start_time": "08:30",
+    "days": "MON - WED",
+    "std_enrolled": 45,
+    "class_limit": "46",
+    "class_code": "96641"
+  },
+  {
+    "name": "PRINCIPLES OF MICROECONOMICS",
+    "faculty": "Sahar Arshad Mahmood",
+    "start_time": "10:00",
+    "days": "TUE - THU",
+    "std_enrolled": 55,
+    "class_limit": "55",
+    "class_code": "96774"
+  },
+  {
+    "name": "DATA STRUCTURES",
+    "faculty": "Dr. Syed Ali Raza",
+    "start_time": "14:30",
+    "days": "THU",
+    "std_enrolled": 44,
+    "class_limit": "43",
+    "class_code": "96938"
+  }
+]
